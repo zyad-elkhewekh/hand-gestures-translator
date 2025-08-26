@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "img_size": [
+    64,
+    64
+  ],
+  "batch_size": 32,
+  "epochs_requested": 100,
+  "epochs_ran": 34,
+  "patience": 15
+}
